@@ -1,0 +1,292 @@
+.error {
+	background-color: grey;
+	margin-top: 115px; 
+	margin-left: 120px;
+	height: 300px;
+	width: 380px;
+}
+
+#login {
+	margin-top: 65px; 
+	margin-left: 690px;
+}
+
+.Login-Register-Header {
+	width: inherit;
+	height: 360;
+	background-color: grey;
+	text-align: center;
+	padding: 0.025px;
+	color: white;
+}
+
+.Login-Register-Body {
+	width: inherit;
+	background-color: grey;
+	text-align: center;
+	margin-top: 15px;
+	font-weight: bold;
+}
+
+.loginDiv {
+	height: 300px;
+	width: 380px;
+	background-color: transparent;
+	margin-left: 465px;
+	font-family: sans-serif;
+	
+}
+.registerDiv {
+	height: 750px;
+	width: 450px;
+	background-color: transparent;
+	margin-left: 430px;
+	font-family: sans-serif;
+
+}
+
+.select-Box {
+	padding: 10px;
+	margin-top: 15px;
+	width: 274px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.input {
+	padding: 10px;
+	margin-top: 15px;
+	width: 250px;
+	font-weight: bold;
+}
+
+.submitBtn {
+	width: 274px;
+	font-weight: bold;
+	cursor: pointer;
+
+}
+
+.closeLogin {
+	position: absolute;
+	margin-left: 360px;
+	margin-top: -56px;
+	cursor: pointer;
+	font-family: sans-serif;
+	border-radius: 10px;
+	width: 17px;
+	
+}
+.closeLogin:hover {
+	border: 1px solid;
+}
+
+.closeRegister {
+	position: absolute;
+	width: 17px;
+	margin-left: 430px;
+	margin-top: -64px;
+	cursor: pointer;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+.closeRegister:hover {
+	border: 1px solid;
+}
+
+
+#navDiv {
+	margin-top: 95px;
+	width: 1080px;
+	margin-left: 120px;
+	padding: 0px;
+	height: 35px;
+	
+}
+
+.info {
+	height: 1200px;
+	width: 520px;
+	margin-left: 10px;
+	margin-top: 50px;
+	background-color: transparent;
+}
+
+img {
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: pink;
+}
+.menu:hover {
+	background-color: grey;
+}
+
+#topDiv {
+	margin-top: -25px;
+	font-family: georgia;
+}
+
+#eduDiv {
+	margin-top: -25px;
+	font-family: georgia;
+}
+
+#enterDiv {
+	margin-top: -25px;
+	font-family: georgia;
+}
+
+#post_news {
+	margin-top: -25px;
+	font-family: georgia;
+}
+
+#searchArea {
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	text-align: center;
+	width: 300px;
+	height: 30px;
+	font-family: georgia;
+}
+#searchDiv {
+	margin-left: 730px;
+	margin-top: -45px;
+}
+
+#btn {
+	height: 35px;
+	width: 35px;
+	cursor: pointer;
+	background-image: url('../uploads/search.jpg');
+	padding: 0px;
+}
+
+#btnDiv {
+	margin-top: -36px;
+	margin-left: 1036px;
+}
+
+.menu {
+	width: 150px;
+	height: 35px;
+	cursor: pointer;
+	text-align: center;
+	font-family: times;
+	padding: 0px;
+	border-radius: 5px;
+	color: indigo;
+}
+
+.header {
+	margin-left: 20px;
+	width: 110px;
+	margin-top: -10px;
+	background-color: transparent;
+}
+
+
+body{
+	background-image: url("");
+	
+}
+.containR{
+	margin-top: -5px;
+	height: 300px;
+	width: 1080px;
+	border-top-right-radius: 50px;
+	margin-left: 120px;
+	background-image: url('../uploads/pix.png');
+	padding: 0px;
+	border-bottom: 1px solid #c5c5c5;
+}
+
+.nav{
+	width: 750px;
+	height: 70px;
+	background-color: transparent;
+	margin-top: -200px;
+	margin-left: 250px;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	text-align: center;
+	
+}
+.divTable tr td{
+	margin-top: -50px;
+	margin-left: 3px;
+	padding: 0px;
+}
+
+.top {
+	background-color: transparent;
+}
+
+.edu {
+	background-color: transparent;
+}
+
+.enter {
+	background-color: transparent;
+}
+
+.DBview {
+	
+	margin-top: 50px;
+	background-color: transparent;
+}
+
+.news_container {
+	height: 5000px;
+	width: 1080px;
+	
+}
+
+.news_details {
+	height: 350px;
+	width: 500px;
+}
+
+#news_table {
+	height: 1200px;
+	width: 1080px;
+	margin-left: 120px;
+}
+
+#post_news_header {
+	height: 50px;
+	background-color: grey;
+	width: 1080px;
+	margin-top: 138px;
+	margin-left: 120px;
+	font-family: arial, times, georgia;
+	text-align: center;
+}
+
+#post_news_div {
+	height: 1040px;
+	width: 900px;
+	margin-top: 20px;
+	margin-left: 120px;
+	font-weight: bold;
+}
+
+#upload_tab {
+	margin-top: 30px;
+}
+
+.back_next_div {
+	height: 20px;
+	width: 20px;
+	color: #ccc;
+	cursor: pointer;
+}
+
+.TON_IMG {
+	
+}
